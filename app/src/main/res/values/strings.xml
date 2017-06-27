@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">N Queen Puzzle</string>
+    <string name="Hint">Enter the Number of Rows</string>
+    <string name="submit">submit</string>
+</resources>
